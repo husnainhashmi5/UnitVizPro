@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1096519450958",
+    "firebase_url": "https://unitvixpro-default-rtdb.firebaseio.com",
+    "project_id": "unitvixpro",
+    "storage_bucket": "unitvixpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096519450958:android:37848c89d5402895a25e1f",
+        "android_client_info": {
+          "package_name": "com.example.unitvizp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf8Ee02IeUKkHWN_Yeb2MLLZsNNlf83Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
