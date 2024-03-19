@@ -44,9 +44,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAYvoUDexlQBpgOH6H1vfMQV605bqDYlhk',
-    appId: '1:1096519450958:web:79e20ddfac9f52e7a25e1f',
-    messagingSenderId: '1096519450958',
+    apiKey: 'Paste your API key here',
+    appId: 'Paste your API ID here',
+    messagingSenderId: 'Paste your sender ID here',
     projectId: 'unitvixpro',
     authDomain: 'unitvixpro.firebaseapp.com',
     databaseURL: 'https://unitvixpro-default-rtdb.firebaseio.com',
